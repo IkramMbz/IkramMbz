@@ -14,7 +14,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 ---
 <br />
 
-<h2 align="center">👨‍💻 Mes derniers projets.</h2>
+<h2>👨‍🚀 Mes derniers projets.</h2>
 <div align="center">
 	<table>
         <tr>
@@ -40,25 +40,17 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 <br />
 <br />
 
+<br />
 
-ter
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/IkramMbz/ADBot)
+<h2 align="center">🚀 Mes dépôts phares</h2>
+<div align="center">
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=ADBot&theme=buefy)](https://github.com/IkramMbz/ADBot)
+	
+</div>
+<br />
+<br />
 
-
-
-tor
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/api?username=ikrammbz&repo=ADBot)](https://github.com/IkramMbz/ADBot)(https://github.com/anuraghazra/github-readme-stats)
-
-![Ikram's GitHub stats](https://github-readme-stats.vercel.app/&show_icons=true&theme=algolia)
-
-
-tu
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/api?username=ikrammbz&repo=ADBot)](https://github.com/IkramMbz/ADBot)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/IkramMbz/ADBot)
 
 
 ### 🛠️ Langages et Outils.<br />
