@@ -29,7 +29,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
                 <h3 align="center">Mon Portfolio</h3>
                 <div align="center">
                     <a href="https://mbechezi.website" target="_blank" rel="noreferrer">
-					<img src="/assets/img/Portfolio.webp" alt="ccbox-tv"/> </a>
+					<img src="/assets/img/Portfolio.webp" alt="Mon Portfolio"/> </a>
                     <p align="center">Mon portfolio de Développeur Full Stack</p>
                 </div>
             </td>
@@ -66,6 +66,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 
 
 ### 📊 Stats \#Nouveau Compte.
-<div>
+
 ![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikrammbz&show_icons=true&theme=gruvbox)
-</div>
+
+#
