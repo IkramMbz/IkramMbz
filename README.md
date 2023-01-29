@@ -1,6 +1,6 @@
-# 🐢 Ikram Mbechezi
+# 🐢 Je suis Ikram Mbechezi (d'après mes parents)
 
-**`Développeur Full Stack (Co-Fondateur Train De Vies)`**
+**`Développeur Full Stack (Co-Fondateur Train De Vies).`**
 
 Le développeur le plus fort de sa génération (99.999% véridique). Développeur Full Stack Freelance, je développe des projets qui me tiennent à cœur et qui synthétisent mes passions. Avec une licence d'informatique en poche, j’interviens en qualité de webmaster sur des projets de sites (Front & Back) ou d’applications Web en mode Agile. Quand je ne passe pas mes journées à développer mon petit bijou ; "Train De Vies" !
 
