@@ -12,9 +12,11 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 </div>
 
 ---
+<br>
+<br>
 
 <h2 align="center">👨‍💻 Mes derniers projets</h2>
-<div align="center" style="margin-bottom: 25px;">
+<div align="center">
 	<table>
         <tr>
 			<td width="50%">
@@ -29,13 +31,15 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
                 <h3 align="center">Mon Portfolio</h3>
                 <div align="center">
                     <a href="https://mbechezi.website" target="_blank" rel="noreferrer">
-					<img src="./assets/img/Portfolio.webp" alt="Mon Portfolio"/> </a>
+					<img src="https://raw.githubusercontent.com/IkramMbz/assets/main/img/Portfolio.webp" alt="Mon Portfolio"/> </a>
                     <p align="center">Mon portfolio de Développeur Full Stack</p>
                 </div>
             </td>
         </tr>
   </table>
 </div>
+<br>
+<br>
 
 ### 🛠️ Langages et Outils.
 <div style="margin-bottom: 25px;">
@@ -63,9 +67,10 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 	<img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 	<img align="left" alt="After FX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
 	<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-	<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
 	
 </div>
+<br>
+<br>
 
 ### 📊 Stats \#Nouveau Compte.
 
