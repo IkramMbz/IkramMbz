@@ -61,8 +61,12 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" /><br>
-	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" /><br>
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
+	<img align="left" alt="After FX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
+	<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /><br>
+	<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" /><br>
+	
 </div> 
 <br>
 <br>
