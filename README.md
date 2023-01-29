@@ -2,7 +2,7 @@
 
 **`Développeur Full Stack (Co-Fondateur Train De Vies).`**
 
-Le développeur le plus fort de sa génération (99.999% véridique). Développeur Full Stack Freelance, je développe des projets qui me tiennent à cœur et qui synthétisent mes passions. Avec une licence d'informatique en poche, j’interviens en qualité de webmaster sur des projets de sites (Front & Back) ou d’applications Web en mode Agile. Quand je ne passe pas mes journées à développer mon petit bijou ; "Train De Vies" !
+Le développeur le plus fort de sa génération (99.999% véridique). Développeur Full Stack Freelance, je développe des projets qui me tiennent à cœur et qui synthétisent mes passions. Avec une licence d'informatique en poche, j’interviens en qualité de webmaster sur des projets de sites (Front & Back) ou d’applications Web en mode Agile. Quand je ne passe pas mes journées à développer mon joyau ; "Train De Vies" !
 
 <div align="left" style="margin-bottom: 50px;">
 	<a href="https://traindevies.com" target="_blank">Mon site</a><br>
@@ -41,7 +41,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 <br>
 
 ### 🛠️ Langages et Outils.
-<p >
+<div>
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  />
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -61,9 +61,9 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
-	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
-</p> 
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" /><br>
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" /><br>
+</div> 
 <br>
 <br>
 
