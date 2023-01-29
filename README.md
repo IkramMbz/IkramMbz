@@ -14,7 +14,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 ---
 <br>
 
-<h2 align="center">👨‍💻 Mes derniers projets</h2>
+<h2 align="center">👨‍💻 Mes derniers projets.</h2>
 <div align="center">
 	<table>
         <tr>
