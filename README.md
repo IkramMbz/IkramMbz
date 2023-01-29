@@ -41,7 +41,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 <br>
 
 ### 🛠️ Langages et Outils.
-<div style="margin-bottom: 25px;">
+<p >
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  />
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -63,7 +63,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
-</div> 
+</p> 
 <br>
 <br>
 
