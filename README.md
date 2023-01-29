@@ -30,7 +30,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
                 <h3 align="center">Mon Portfolio</h3>
                 <div align="center">
                     <a href="https://mbechezi.website" target="_blank" rel="noreferrer">
-					<img src="./assets/img/Train-De-Vies.webp/Portfolio.webp" alt="Mon Portfolio"/> </a>
+					<img src="./assets/img/Portfolio.webp" alt="Mon Portfolio"/> </a>
                     <p align="center">Mon portfolio de Développeur Full Stack.</p>
                 </div>
             </td>
@@ -66,10 +66,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 	<img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 	<img align="left" alt="After FX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
 	<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-	
 	<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
-	<img align="left" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </div>
 <br>
 <br>
