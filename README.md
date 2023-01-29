@@ -5,10 +5,9 @@
 Le développeur le plus fort de sa génération (99.999% véridique). Développeur Full Stack Freelance, je développe des projets qui me tiennent à cœur et qui synthétisent mes passions. Avec une licence d'informatique en poche, j’interviens en qualité de webmaster sur des projets de sites (Front & Back) ou d’applications Web en mode Agile. Quand je ne passe pas mes journées à développer mon petit bijou ; "Train De Vies" !
 
 <div align="left">
-	<a style="background:red;" href="https://traindevies.com">Mon site</a>
+	<a href="https://traindevies.com">Mon site</a>
 	<a href="https://mbechezi.website">Mon Portfolio</a>
 	<a href="https://fr.linkedin.com/in/ikram-mbechezi">Mon LinkedIn</a>
-	<a href="https://traindevies.com">Mon site</a>
 </div>
 
 ---
