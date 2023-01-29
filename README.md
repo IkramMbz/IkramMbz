@@ -70,7 +70,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 </div> 
 <br />
 <br />
-<p></p>
+
 <br />
 
 ### 📊 Stats \#Nouveau Compte.<br>
