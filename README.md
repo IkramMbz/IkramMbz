@@ -42,27 +42,29 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 
 ### 🛠️ Langages et Outils.
 <div style="margin-bottom: 25px;">
-	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-	<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-	<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-	<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-	<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-	<img align="left" alt="Wordpress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-	<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-	<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-	<img align="left" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-	<img align="left" alt="After FX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
-	<img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-	<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-	<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-	<img align="left" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+<div>
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="c++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"   />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="afterFX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
+	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
+</div>
 </div> 
 <br>
 <br>
