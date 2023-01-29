@@ -41,8 +41,24 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 <br />
 
 
-[![Custom Card](https://img.shields.io/badge/Custom-Card-green)](https://github.com/IkramMbz/ADBot)
+ter
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/IkramMbz/ADBot)
 
+
+
+tor
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/api?username=ikrammbz&repo=ADBot)](https://github.com/IkramMbz/ADBot)(https://github.com/anuraghazra/github-readme-stats)
+
+![Ikram's GitHub stats](https://github-readme-stats.vercel.app/&show_icons=true&theme=algolia)
+
+
+tu
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/api?username=ikrammbz&repo=ADBot)](https://github.com/IkramMbz/ADBot)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/IkramMbz/ADBot)
 
 
 ### 🛠️ Langages et Outils.<br />
