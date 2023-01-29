@@ -13,7 +13,6 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 
 ---
 <br>
-<br>
 
 <h2 align="center">👨‍💻 Mes derniers projets</h2>
 <div align="center">
@@ -68,6 +67,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 	<img align="left" alt="After FX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
 	<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 	
+	<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
 </div>
 <br>
 <br>
