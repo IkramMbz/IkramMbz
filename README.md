@@ -52,7 +52,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 
 <br />
 
-<h2 align="center">🚀 Mes dépôts phares</h2>
+<h2>🚀 Mes dépôts phares</h2>
 <div align="center">
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=ADBot&theme=buefy)](https://github.com/IkramMbz/ADBot)
