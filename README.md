@@ -13,6 +13,49 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 
 ---
 
+<h2 align="center">👨‍💻 Mes derniers projets</h2>
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center">Train De Vies</h3>
+				<div align="center">
+                    <a href="https://traindevies.com" target="_blank" rel="noreferrer">
+					<img src="/assets/img/Train-De-Vies.webp" alt="Train De Vies"/> </a>
+                    <p align="center">Un site d'E-commerce dédié aux créateurs digitaux.</p>
+				</div>
+            </td>
+            <td width="50%">
+                <h3 align="center">Mon Portfolio</h3>
+                <div align="center">
+                    <a href="https://mbechezi.website" target="_blank" rel="noreferrer">
+					<img src="/assets/img/Portfolio.webp" alt="ccbox-tv"/> </a>
+                    <p align="center">Mon portfolio de Développeur Full Stack</p>
+                </div>
+            </td>
+        </tr>
+
+        <tr>
+			<td width="50%">
+				<h3 align="center">Train De Vies</h3>
+				<div align="center">
+                    <a href="https://traindevies.com" target="_blank" rel="noreferrer">
+					<img src="/assets/img/Train-De-Vies.webp" alt="Train De Vies"/> </a>
+                    <p align="center">Un site d'E-commerce dédié aux créateurs digitaux.</p>
+				</div>
+            </td>
+            <td width="50%">
+                <h3 align="center">Mon Portfolio</h3>
+                <div align="center">
+                    <a href="https://mbechezi.website" target="_blank" rel="noreferrer">
+					<img src="/assets/img/Portfolio.webp" alt="ccbox-tv"/> </a>
+                    <p align="center">Mon portfolio de Développeur Full Stack</p>
+                </div>
+            </td>
+        </tr>
+  </table>
+</div>
+
 ### 🛠️ Langages et Outils.
 <div>
 	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -38,7 +81,8 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </div>
 <br/>
-<br>
+<br/>
+
 
 ### 📊 Stats \#Nouveau Compte.
 
