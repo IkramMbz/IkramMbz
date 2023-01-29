@@ -64,10 +64,10 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 	<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 	<img align="left" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 	<img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-	<img align="left" alt="After FX" width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
+	<img align="left" alt="After FX" width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" /> 
 </div> 
-<br>
-<br>
+<br />
+<br />
 
 ### 📊 Stats \#Nouveau Compte.
 
