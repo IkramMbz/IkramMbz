@@ -5,9 +5,15 @@
 Le développeur le plus fort de sa génération (99.999% véridique). Développeur Full Stack Freelance, je développe des projets qui me tiennent à cœur et qui synthétisent mes passions. Avec une licence d'informatique en poche, j’interviens en qualité de webmaster sur des projets de sites (Front & Back) ou d’applications Web en mode Agile. Quand je ne passe pas mes journées à développer mon joyau ; "Train De Vies" !
 
 <div align="left" style="margin-bottom: 50px;">
-	<a href="https://traindevies.com" target="_blank">Mon site</a><br />
-	<a href="https://mbechezi.website" target="_blank">Mon Portfolio</a><br />
-	<a href="https://fr.linkedin.com/in/ikram-mbechezi" target="_blank">Mon LinkedIn</a><br /><br />
+	<a href="https://traindevies.com" target="_blank">
+	  <img src="./assets/img/train-de-vies.svg" alt="traindevies.com" style="max-width: 100%;">
+	</a>
+	<a href="https://fr.linkedin.com/in/ikram-mbechezi" target="_blank">
+	  <img src="./assets/img/linkedin.svg" alt="linkedin" style="max-width: 100%;">
+	</a><br />
+	<a href="https://mbechezi.website" target="_blank">
+	  <img src="./assets/img/portfolio.svg" alt="portfolio ikram mbechezi" style="max-width: 100%;">
+	</a><br />
 	📫 Pour me contacter : Mbechezi.Ikram@gmail.com
 </div>
 
