@@ -23,15 +23,15 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 				<div align="center">
                     <a href="https://traindevies.com" target="_blank" rel="noreferrer">
 					<img src="./assets/img/Train-De-Vies.webp" alt="Train De Vies"/> </a>
-                    <p align="center">Un site d'E-commerce dédié aux créateurs digitaux.</p>
+                    <p align="center">Application Web et Site E-commerce dédié aux créateurs digitaux.</p>
 				</div>
             </td>
             <td width="50%">
                 <h3 align="center">Mon Portfolio</h3>
                 <div align="center">
                     <a href="https://mbechezi.website" target="_blank" rel="noreferrer">
-					<img src="https://raw.githubusercontent.com/IkramMbz/assets/main/img/Portfolio.webp" alt="Mon Portfolio"/> </a>
-                    <p align="center">Mon portfolio de Développeur Full Stack</p>
+					<img src="./assets/img/Train-De-Vies.webp/Portfolio.webp" alt="Mon Portfolio"/> </a>
+                    <p align="center">Mon portfolio de Développeur Full Stack.</p>
                 </div>
             </td>
         </tr>
@@ -68,6 +68,8 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 	<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 	
 	<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
+	<img align="left" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </div>
 <br>
 <br>
