@@ -14,10 +14,11 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 	<a href="https://mbechezi.website" target="_blank">
 	  <img src="./assets/img/portfolio.svg" alt="portfolio ikram mbechezi" style="max-width: 100%;">
 	</a><br /><br />
-	<p>📫 Pour me contacter : </p>
-	<a href="mailto:Mbechezi.Ikram@gmail.com" target="_blank">
-	 Mbechezi.Ikram@gmail.com
-	</a>
+	<p>📫 Pour me contacter : 
+		<a href="mailto:Mbechezi.Ikram@gmail.com" target="_blank">
+		 Mbechezi.Ikram@gmail.com
+		</a>
+	</p>
 </div>
 
 ---
