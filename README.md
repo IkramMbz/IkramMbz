@@ -4,7 +4,7 @@
 
 Le développeur le plus fort de sa génération (99.999% véridique). Développeur Full Stack Freelance, je développe des projets qui me tiennent à cœur et qui synthétisent mes passions. Avec une licence d'informatique en poche, j’interviens en qualité de webmaster sur des projets de sites (Front & Back) ou d’applications Web en mode Agile. Quand je ne passe pas mes journées à développer mon petit bijou ; "Train De Vies" !
 
-<div align="left">
+<div align="left" style="margin-bottom: 50px;">
 	<a href="https://traindevies.com" target="_blank">Mon site</a><br>
 	<a href="https://mbechezi.website" target="_blank">Mon Portfolio</a><br>
 	<a href="https://fr.linkedin.com/in/ikram-mbechezi" target="_blank">Mon LinkedIn</a><br><br>
@@ -14,14 +14,14 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 ---
 
 <h2 align="center">👨‍💻 Mes derniers projets</h2>
-<div align="center">
+<div align="center" style="margin-bottom: 25px;">
 	<table>
         <tr>
 			<td width="50%">
 				<h3 align="center">Train De Vies</h3>
 				<div align="center">
                     <a href="https://traindevies.com" target="_blank" rel="noreferrer">
-					<img src="/assets/img/Train-De-Vies.webp" alt="Train De Vies"/> </a>
+					<img src="./assets/img/Train-De-Vies.webp" alt="Train De Vies"/> </a>
                     <p align="center">Un site d'E-commerce dédié aux créateurs digitaux.</p>
 				</div>
             </td>
@@ -29,7 +29,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
                 <h3 align="center">Mon Portfolio</h3>
                 <div align="center">
                     <a href="https://mbechezi.website" target="_blank" rel="noreferrer">
-					<img src="/assets/img/Portfolio.webp" alt="Mon Portfolio"/> </a>
+					<img src="./assets/img/Portfolio.webp" alt="Mon Portfolio"/> </a>
                     <p align="center">Mon portfolio de Développeur Full Stack</p>
                 </div>
             </td>
@@ -38,7 +38,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 </div>
 
 ### 🛠️ Langages et Outils.
-<div style="margin-right: 30px;">
+<div style="margin-bottom: 25px;">
 	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 	<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -56,10 +56,16 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 	<img align="left" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 	<img align="left" alt="After FX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
 	<img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+	<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+	<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+	<img align="left" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+	<img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+	<img align="left" alt="After FX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
+	<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+	<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
+	
 </div>
-<br/>
-<br/>
-
 
 ### 📊 Stats \#Nouveau Compte.
 
