@@ -42,7 +42,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 
 ### 🛠️ Langages et Outils.<br>
 <div>
-	<img align="left" width="40px" height="40px" style="padding:10px;" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+	<img align="left" width="40px" height="40px" style="padding-bottom:10px;" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  />
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
