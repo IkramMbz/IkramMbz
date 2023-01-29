@@ -40,7 +40,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 <br>
 <br>
 
-### 🛠️ Langages et Outils.
+### 🛠️ Langages et Outils.<br>
 <div>
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  />
@@ -72,6 +72,6 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 <br>
 
 
-### 📊 Stats \#Nouveau Compte.
+### 📊 Stats \#Nouveau Compte.<br>
 
 ![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikrammbz&show_icons=true&theme=algolia)
