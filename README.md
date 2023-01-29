@@ -61,14 +61,12 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 	<img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 	<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-	<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-	<img align="left" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-	<img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-	<img align="left" alt="After FX" width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" /> 
+
 </div> 
 <br />
 <br />
 
-<h2 align="center">👨‍💻 Mes derniers projets</h2>
+
+### 📊 Stats \#Nouveau Compte.
 
 ![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikrammbz&show_icons=true&theme=gruvbox)
