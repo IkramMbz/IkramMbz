@@ -64,9 +64,10 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 	<img align="left" alt="After FX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
-	<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /><br>
-	<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" /><br>
-	
+	<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+	<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
+	<img align="left" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><br>
 </div> 
 <br>
 <br>
@@ -74,4 +75,4 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 
 ### 📊 Stats \#Nouveau Compte.
 
-![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikrammbz&show_icons=true&theme=gruvbox)
+![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikrammbz&show_icons=true&theme=algolia)
