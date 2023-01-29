@@ -5,14 +5,14 @@
 Le développeur le plus fort de sa génération (99.999% véridique). Développeur Full Stack Freelance, je développe des projets qui me tiennent à cœur et qui synthétisent mes passions. Avec une licence d'informatique en poche, j’interviens en qualité de webmaster sur des projets de sites (Front & Back) ou d’applications Web en mode Agile. Quand je ne passe pas mes journées à développer mon joyau ; "Train De Vies" !
 
 <div align="left" style="margin-bottom: 50px;">
-	<a href="https://traindevies.com" target="_blank">Mon site</a><br>
-	<a href="https://mbechezi.website" target="_blank">Mon Portfolio</a><br>
-	<a href="https://fr.linkedin.com/in/ikram-mbechezi" target="_blank">Mon LinkedIn</a><br><br>
+	<a href="https://traindevies.com" target="_blank">Mon site</a><br />
+	<a href="https://mbechezi.website" target="_blank">Mon Portfolio</a><br />
+	<a href="https://fr.linkedin.com/in/ikram-mbechezi" target="_blank">Mon LinkedIn</a><br /><br />
 	📫 Pour me contacter : Mbechezi.Ikram@gmail.com
 </div>
 
 ---
-<br>
+<br />
 
 <h2 align="center">👨‍💻 Mes derniers projets.</h2>
 <div align="center">
@@ -37,10 +37,10 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
         </tr>
   </table>
 </div>
-<br>
-<br>
+<br />
+<br />
 
-### 🛠️ Langages et Outils.<br>
+### 🛠️ Langages et Outils.<br />
 <div>
 	<img align="left" width="40px" height="40px" style="padding-bottom:10px;" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 	<img align="left" width="40px" height="40px" style="padding-right:10px;" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  />
@@ -75,3 +75,21 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 ### 📊 Stats \#Nouveau Compte.<br>
 
 ![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikrammbz&show_icons=true&theme=algolia)
+
+<div class="ikram">
+<br />
+<br />
+<a href="https://mbechezi.website">
+  <img width="90px" height="90px" src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/Train-De-Vies-Ikram-3D.webp" />
+</a>
+<br />
+
+```javascript
+import * from 'my-skills'
+
+function greetings() {
+	let ikramMbechezi = '👋 Je mets au service de vos projets mes compétences de développeur invétéré mais par-dessus tout :';
+  	return <Passion />
+}
+```
+</div>
