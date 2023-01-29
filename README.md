@@ -68,9 +68,10 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 	<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" /><br>
 	<img align="left" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/><br>
 </div> 
-<br>
-<br>
-
+<br />
+<br />
+<p></p>
+<br />
 
 ### 📊 Stats \#Nouveau Compte.<br>
 
