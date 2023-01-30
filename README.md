@@ -56,7 +56,9 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 <div align="center">
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=ADBot&theme=buefy)](https://github.com/IkramMbz/ADBot)
-	
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=Mosaique-solitaire)](https://github.com/IkramMbz/Mosaique-solitaire)
+
 </div>
 <br />
 <br />
