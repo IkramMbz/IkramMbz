@@ -62,7 +62,7 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 </div>
 <br />
 <br />
-
+<br />
 
 
 <h3>🛠️ Langages et Outils.</h3>
