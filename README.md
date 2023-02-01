@@ -96,12 +96,10 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 <br />
 <br />
 
-<br />
-
 <div>
 <h3>📊 Stats #Nouveau Compte.</h3>
-![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikrammbz&show_icons=true&theme=algolia)
 
+![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikrammbz&show_icons=true&theme=algolia)
 
 </div><br />
 
