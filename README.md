@@ -59,6 +59,8 @@ Le développeur le plus fort de sa génération (99.999% véridique). Développe
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=Mosaique-solitaire)](https://github.com/IkramMbz/Mosaique-solitaire)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=PersonaDB&theme=chartreuse-dark)](https://github.com/IkramMbz/PersonaDB)
+
 </div>
 <br />
 <br />
