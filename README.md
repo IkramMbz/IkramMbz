@@ -1,4 +1,4 @@
-<h1>🐢 Je suis Ikram Mbechezi (d'après mes parents).</h1>
+<h1>🐢 Je suis Ikram Mbechezi.</h1>
 
 **`Développeur Full Stack (Co-Fondateur Train De Vies).`**
 
