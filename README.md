@@ -2,7 +2,7 @@
 
 **`Développeur Full Stack (Co-Fondateur Train De Vies).`**
 
-Développeur Full Stack Freelance, je développe des projets qui me tiennent à cœur et qui synthétisent mes passions. Avec une licence d'informatique en poche, j’interviens en qualité de webmaster sur des projets de sites (Front & Back) ou d’applications Web en mode Agile. Quand je ne passe pas mes journées à développer mon joyau ; "Train De Vies" !
+Développeur Full Stack Freelance, je développe des projets qui me tiennent à cœur et qui synthétisent mes passions. Que ce soit en qualité de webmaster (Front & Back) d’applications Web en mode Agile ou de programmation !
 
 <div align="left" style="margin-bottom: 50px;">
 	<a href="https://traindevies.com" target="_blank">
