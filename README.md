@@ -57,13 +57,11 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 
 <h2>🚀 Mes dépôts phares</h2>
 <div align="center">
-	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=ADBot&theme=buefy)](https://github.com/IkramMbz/ADBot)
+	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=ADBot&theme=buefy)](https://github.com/IkramMbz/ADBot)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=Mosaique-solitaire)](https://github.com/IkramMbz/Mosaique-solitaire)
+	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=Mosaique-solitaire)](https://github.com/IkramMbz/Mosaique-solitaire)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=PersonaDB&theme=chartreuse-dark)](https://github.com/IkramMbz/PersonaDB)
-
+	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=PersonaDB&theme=chartreuse-dark)](https://github.com/IkramMbz/PersonaDB)
 </div>
 <br />
 <br />
@@ -107,24 +105,24 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 ![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikrammbz&show_icons=true&theme=algolia)
 
 </div><br />
-
-<div class="ikram">
-<br />
-<br />
-<a href="https://mbechezi.website">
-  <img width="90px" height="90px" src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/Train-De-Vies-Ikram-3D.webp" />
-</a>
-<br />
-<br />
-<br />
 -->
 
-```javascript
-import * from 'my-skills'
+<div class="ikram" align="center">
+	<br />
+	<br />
+	<a href="https://mbechezi.website">
+	  <img width="90px" height="90px" src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/Ikram-3D.webp" />
+	</a>
+	<br />
+	<br />
+	<br />
 
-function greetings() {
-	let ikramMbechezi = '👋 Je mets au service de vos projets mes compétences de développeur invétéré mais par-dessus tout :';
-  	return <Passion />
-}
-```
+	```javascript
+	import * from 'my-skills'
+
+	function greetings() {
+		let ikramMbechezi = '👋 Je mets au service de vos projets mes compétences de développeur invétéré mais par-dessus tout :';
+		return <Passion />
+	}
+	```
 </div>
