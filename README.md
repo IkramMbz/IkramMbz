@@ -68,7 +68,7 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 <br />
 
 <h2>🛠️ Langages et Outils.</h2>
-<div align="center" style="flex gap-4">
+<div align="center" style="display: flex; gap: 4px">
 	<img align="left" width="40px" height="40px" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 	<img align="left" width="40px" height="40px" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  />
 	<img align="left" width="40px" height="40px" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
