@@ -5,9 +5,9 @@
 Bien plus que développeur, je réunis divers domaines de l'IT afin de créer une synergie entre visuel et fonctionnel. Dévoué à ce secteur, je porte naturellement plusieurs casquettes, allant de chef de projet à créateur de contenu.
 
 <div align="left" style="margin-bottom: 50px;">
-	<!--<a href="https://traindevies.com" target="_blank">
+	<a href="https://traindevies.com" target="_blank">
 	  <img src="./assets/img/train-de-vies.svg" alt="traindevies.com" style="max-width: 100%;">
-	</a>-->
+	</a>
 	<a href="https://fr.linkedin.com/in/ikram-mbechezi" target="_blank">
 	  <img src="./assets/img/linkedin.svg" alt="linkedin" style="max-width: 100%;">
 	</a>
@@ -32,18 +32,18 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 <div align="center">
 	<table>
         <tr>
-			<td width="50%">
+	<!--<td width="50%">
 				<h3 align="center">Train De Vies</h3>
 				<div align="center">
                     <a href="https://traindevies.com" target="_blank" rel="noreferrer">
 					<img src="./assets/img/Train-De-Vies.webp" alt="Train De Vies"/> </a>
                     <p align="center">Application Web et Site E-commerce dédié aux créateurs digitaux.</p>
 				</div>
-            </td>
+            </td>-->
             <td width="50%">
                 <h3 align="center">Mon Portfolio</h3>
                 <div align="center">
-                    <a href="https://mbechezi.website" target="_blank" rel="noreferrer">
+                    <a href="https://mbechezi.vercel.app" target="_blank" rel="noreferrer">
 					<img src="./assets/img/Portfolio.webp" alt="Mon Portfolio"/> </a>
                     <p align="center">Mon portfolio de Développeur Full Stack.</p>
                 </div>
