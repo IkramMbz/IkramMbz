@@ -2,7 +2,7 @@
 
 **`Développeur Full Stack (Co-Fondateur Train De Vies).`**
 
-Bien plus que développeur, je réunis divers domaines de l'IT afin de créer une synergie entre visuel et fonctionnel. Curieux et dévoué à ce secteur, je peux porter plusieurs casquettes, de chef de projet à créateur de contenu.
+Bien plus que développeur, je réunis divers domaines de l'IT afin de créer une synergie entre visuel et fonctionnel. Dévoué à ce secteur, je porte naturellement plusieurs casquettes, allant de chef de projet à créateur de contenu.
 
 <div align="left" style="margin-bottom: 50px;">
 	<a href="https://traindevies.com" target="_blank">
