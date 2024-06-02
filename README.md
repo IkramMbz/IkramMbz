@@ -70,9 +70,9 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 
 <h2>🛠️ Langages et Outils.</h2>
 <div align="center" style="flex gap-4">
-	<img align="left" width="40px" height="40px" alt="C" title="C" title="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  />
+	<img align="left" width="40px" height="40px" alt="C" title="C" title="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="margin-bottom: 50px;" margin-bottom="40px" />
 	<img align="left" width="40px" height="40px" alt="C++" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-	<img align="left" width="40px" height="40px" alt="C#" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+	<img align="left" width="40px" height="40px" alt="C#" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" marginBottom="40px"/>
 	<img align="left" width="40px" height="40px" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 	<img align="left" width="40px" height="40px" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 	<img align="left" width="40px" height="40px" alt="Next.js" title="Next.js" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
