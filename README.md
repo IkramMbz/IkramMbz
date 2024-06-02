@@ -71,6 +71,39 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 <h2>🛠️ Langages et Outils.</h2>
 <div align="center">
 	<img align="left" width="40px" height="40px" alt="C" title="C" title="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+	<img align="left" width="40px" height="40px" alt="C++" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+	<img align="left" width="40px" height="40px" alt="C#" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+	<img align="left" width="40px" height="40px" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="Next.js" title="Next.js" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
+	<img align="left" width="40px" height="40px" alt="PHP" title="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Python" title="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+	<img align="left" width="40px" height="40px" alt="React.js" title="React.js" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Rust" title="Rust" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Svelte" title="Svelte" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" />
+	<img align="left" width="40px" height="40px" alt="TypeScript" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+	<img align="left" width="40px" height="40px" alt="CSS3" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+	<img align="left" width="40px" height="40px" alt="Cypress" title="Cypress" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Express.js" title="Express.js" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Docker" title="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="Firebase" title="Firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Jest" title="Jest" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="GitLab" title="GitLab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="Grafana" title="Grafana" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="Google Tools" title="Google Tools" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+	<img align="left" width="40px" height="40px" alt="MongoDB" title="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="MySql" title="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+	<img align="left" width="40px" height="40px" alt="NGINX" title="NGINX" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Node.js" title="Node.js" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="Prima" title="Prisma" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Portainer" title="Portainer" src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" />
+	<img align="left" width="40px" height="40px" alt="PostgreSQL" title="PostgreSQL" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="Prometheus" title="Prometheus" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />
+	<img align="left" width="40px" height="40px" alt="SQLite" title="SQLite" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Supabase" title="Supabase" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Tailwind CSS" title="Tailwind CSS" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
 
 </div>
 <br />
