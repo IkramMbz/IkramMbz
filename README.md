@@ -11,7 +11,7 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 	<a href="https://fr.linkedin.com/in/ikram-mbechezi" target="_blank">
 	  <img src="./assets/img/linkedin.svg" alt="linkedin" style="max-width: 100%;">
 	</a>
-	<a href="https://mbechezi.website" target="_blank">
+	<a href="https://mbechezi.vercel.app" target="_blank">
 	  <img src="./assets/img/portfolio.svg" alt="portfolio ikram mbechezi" style="max-width: 100%;">
 	</a><br /><br />
 	<p>
