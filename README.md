@@ -70,7 +70,7 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 
 <h2>🛠️ Langages et Outils.</h2>
 <div align="center" style="flex gap-4">
-	<img align="left" width="40px" height="40px" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  />
+	<img align="left" width="40px" height="40px" alt="C" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  />
 	<img align="left" width="40px" height="40px" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 	<img align="left" width="40px" height="40px" alt="CSharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -123,6 +123,7 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 -->
 
 <div class="ikram">
+	<br />
 	<br />
 	<br />
 	<a href="https://mbechezi.website" style="border-radius: 100%; background-color: red; background-color: '#faff00';">
