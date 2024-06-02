@@ -44,8 +44,10 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
                 <h3 align="center">Mon Portfolio</h3>
                 <div align="center">
                     <a href="https://mbechezi.vercel.app" target="_blank" rel="noreferrer">
-					<img src="./assets/img/Portfolio.webp" alt="Mon Portfolio"/> </a>
-                    <p align="center">Mon portfolio de Développeur Full Stack.</p>
+			<!--<img src="./assets/img/Portfolio.web" alt="Mon Portfolio"/>-->
+			<img src="https://i.pinimg.com/originals/ed/a5/73/eda5739966cb33768d8ad0d77d7307ce.gif" alt="Mon Portfolio"/>
+		    </a>
+                    <p align="center">Mon portfolio de Développeur.</p>
                 </div>
             </td>
         </tr>
