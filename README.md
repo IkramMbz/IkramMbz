@@ -16,7 +16,7 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 	</a><br /><br />
 	<p>
 		<span>📩 Pour me contacter :</span><br/>
-		<a href="www.linkedin.com/in/ikram-mbechezi" target="_blank">
+		<a href="https://www.linkedin.com/in/ikram-mbechezi" target="_blank">
 		 LinkedIn
 		</a><br/>
 		<a href="mailto:Mbechezi.Ikram@gmail.com" target="_blank">
