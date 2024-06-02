@@ -2,7 +2,7 @@
 
 **`Développeur Full Stack (Co-Fondateur Train De Vies).`**
 
-Développeur Full Stack Freelance, je développe des projets qui me tiennent à cœur et qui synthétisent mes passions. Que ce soit en qualité de webmaster (Front & Back) d’applications Web en mode Agile ou de programmation !
+Bien plus que développeur, je réunis divers domaines de l'IT afin de créer une synergie entre visuel et fonctionnel. Curieux et dévoué à ce secteur, je peux porter plusieurs casquettes, de chef de projet à créateur de contenu.
 
 <div align="left" style="margin-bottom: 50px;">
 	<a href="https://traindevies.com" target="_blank">
@@ -14,7 +14,11 @@ Développeur Full Stack Freelance, je développe des projets qui me tiennent à 
 	<a href="https://mbechezi.website" target="_blank">
 	  <img src="./assets/img/portfolio.svg" alt="portfolio ikram mbechezi" style="max-width: 100%;">
 	</a><br /><br />
-	<p>📫 Pour me contacter : 
+	<p>
+		<span>📩 Pour me contacter :</span>
+		<a href="www.linkedin.com/in/ikram-mbechezi" target="_blank">
+		 LinkedIn
+		</a>
 		<a href="mailto:Mbechezi.Ikram@gmail.com" target="_blank">
 		 Mbechezi.Ikram@gmail.com
 		</a>
