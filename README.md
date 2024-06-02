@@ -110,8 +110,8 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 <div class="ikram">
 	<br />
 	<br />
-	<a href="https://mbechezi.website">
-	  <img width="90px" height="90px" src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/Ikram-3D.webp" style="border-radius: 100%; background-color: #faff00; background-image: linear-gradient(319deg, #faff00 0%, #ff1000 37%, #ff6a00 100%);"/>
+	<a href="https://mbechezi.website" style="border-radius: 100%; background-color: red; background-color: '#faff00';">
+	  <img width="90px" height="90px" src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/Ikram-3D.webp" />
 	</a>
 	<br />
 	<br />
