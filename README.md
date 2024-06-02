@@ -118,8 +118,7 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 	<img align="left" width="40px" height="40px" alt="Trello" title="Trello" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Unity" title="Unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 	<img align="left" width="40px" height="40px" alt="Vercel" title="Vercel" src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Wordpress" title="Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+
 </div>
 <br />
 <br />
