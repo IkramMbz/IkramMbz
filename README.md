@@ -28,7 +28,7 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 ---
 <br />
 
-<h2>👨‍🚀 Mes derniers projets.</h2>
+<h2>👨‍🚀 Mes derniers projets</h2>
 <div align="center">
 	<table>
         <tr>
@@ -53,7 +53,6 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 </div>
 <br />
 <br />
-
 <br />
 
 <h2>🚀 Mes dépôts phares</h2>
@@ -70,9 +69,8 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 <br />
 <br />
 
-
-<h3>🛠️ Langages et Outils.</h3>
-<div>
+<h2>🛠️ Langages et Outils.</h2>
+<div align="center">
 	<img align="left" width="40px" height="40px" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 	<img align="left" width="40px" height="40px" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  />
 	<img align="left" width="40px" height="40px" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -101,8 +99,9 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 </div> 
 <br />
 <br />
+<br />
 
-<div>
+<!--<div>
 <h3>📊 Stats #Nouveau Compte.</h3>
 
 ![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikrammbz&show_icons=true&theme=algolia)
@@ -116,6 +115,9 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
   <img width="90px" height="90px" src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/Train-De-Vies-Ikram-3D.webp" />
 </a>
 <br />
+<br />
+<br />
+-->
 
 ```javascript
 import * from 'my-skills'
