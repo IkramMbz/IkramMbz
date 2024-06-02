@@ -70,9 +70,9 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 
 <h2>🛠️ Langages et Outils.</h2>
 <div align="center" style="flex gap-4">
-	<img align="left" width="40px" height="40px" alt="C" title="C" title="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="margin-bottom: 50px;" margin-bottom="40px" />
+	<img align="left" width="40px" height="40px" alt="C" title="C" title="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 	<img align="left" width="40px" height="40px" alt="C++" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-	<img align="left" width="40px" height="40px" alt="C#" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" marginBottom="40px"/>
+	<img align="left" width="40px" height="40px" alt="C#" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 	<img align="left" width="40px" height="40px" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 	<img align="left" width="40px" height="40px" alt="Next.js" title="Next.js" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
@@ -84,9 +84,11 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 	<img align="left" width="40px" height="40px" alt="TypeScript" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />
 	<img align="left" width="40px" height="40px" alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 	<img align="left" width="40px" height="40px" alt="CSS3" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+	<img align="left" width="40px" height="40px" alt="Cypress" title="Cypress" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Express.js" title="Express.js" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Docker" title="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" />
 	<img align="left" width="40px" height="40px" alt="Firebase" title="Firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Jest" title="Jest" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
 	<img align="left" width="40px" height="40px" alt="GitLab" title="GitLab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" />
 	<img align="left" width="40px" height="40px" alt="Grafana" title="Grafana" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-plain.svg" />
 	<img align="left" width="40px" height="40px" alt="Google Tools" title="Google Tools" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" />
@@ -95,6 +97,7 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 	<img align="left" width="40px" height="40px" alt="MySql" title="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 	<img align="left" width="40px" height="40px" alt="NGINX" title="NGINX" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Node.js" title="Node.js" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="Prima" title="Prisma" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Portainer" title="Portainer" src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" />
 	<img align="left" width="40px" height="40px" alt="PostgreSQL" title="PostgreSQL" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" />
 	<img align="left" width="40px" height="40px" alt="Prometheus" title="Prometheus" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />
@@ -107,10 +110,15 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 	<img align="left" width="40px" height="40px" alt="Adobe Illustrator" width="30px" title="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
 	<img align="left" width="40px" height="40px" alt="Blender" title="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+	<img align="left" width="40px" height="40px" alt="IntelliJ" title="IntelliJ" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Moodle" title="Moodle" src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Netlify" title="Netlify" src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Notion" title="Notion" src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Tensorflow" title="Tensorflow" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Trello" title="Trello" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Unity" title="Unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
+	<img align="left" width="40px" height="40px" alt="Vercel" title="Vercel" src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Wordpress" title="Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 </div>
 <br />
