@@ -68,7 +68,7 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 <br />
 
 <h2>🛠️ Langages et Outils.</h2>
-<div align="center">
+<div align="center" style="flex gap-4">
 	<img align="left" width="40px" height="40px" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 	<img align="left" width="40px" height="40px" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  />
 	<img align="left" width="40px" height="40px" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -78,22 +78,17 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 	<img align="left" width="40px" height="40px" alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 	<img align="left" width="40px" height="40px" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
 	<img align="left" width="40px" height="40px" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+	<img align="left" width="40px" height="40px" alt="React.JS" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 	<img align="left" width="40px" height="40px" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"   />
-	<img align="left" width="40px" height="40px" alt="wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 	<img align="left" width="40px" height="40px" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
 	<img align="left" width="40px" height="40px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 	<img align="left" width="40px" height="40px" alt="blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 	<img align="left" width="40px" height="40px" alt="arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 	<img align="left" width="40px" height="40px" alt="afterFX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="Illustrator" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" /><br>
 	<img align="left" width="40px" height="40px" alt="unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
-	<img align="left" width="40px" height="40px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-	<img align="left" width="40px" height="40px" alt="blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-	<img align="left" width="40px" height="40px" alt="arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
-	<img align="left" width="40px" height="40px" alt="unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
-	<img align="left" alt="After FX" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
-	<img align="left" alt="Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-	<img align="left" alt="Illustrator" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" /><br>
-	<img align="left" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+	<img align="left" width="40px" height="40px" alt="wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 </div> 
 <br />
 <br />
