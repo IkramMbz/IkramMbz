@@ -104,7 +104,14 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 	<img align="left" width="40px" height="40px" alt="SQLite" title="SQLite" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Supabase" title="Supabase" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Tailwind CSS" title="Tailwind CSS" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
-
+	<img align="left" width="40px" height="40px" alt="Arduino" title="Arduino" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Adobe AfterFX" title="Adobe AfterFX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="Adobe Photoshop" width="30px" title="Adobe Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="Adobe Illustrator" width="30px" title="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
+	<img align="left" width="40px" height="40px" alt="Blender" title="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+	<img align="left" width="40px" height="40px" alt="IntelliJ" title="IntelliJ" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Moodle" title="Moodle" src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" />
 </div>
 <br />
 <br />
