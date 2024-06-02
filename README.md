@@ -117,12 +117,12 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 	<br />
 	<br />
 
-	```javascript
-	import * from 'my-skills'
+```javascript
+import * from 'my-skills'
 
-	function greetings() {
-		let ikramMbechezi = '👋 Je mets au service de vos projets mes compétences de développeur invétéré mais par-dessus tout :';
-		return <Passion />
-	}
-	```
+function greetings() {
+	let ikramMbechezi = '👋 Je mets au service de vos projets mes compétences de développeur invétéré mais par-dessus tout :';
+	return <Passion />
+}
+```
 </div>
