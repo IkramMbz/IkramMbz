@@ -7,18 +7,18 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 <div align="left" style="margin-bottom: 50px;">
 	<a href="https://traindevies.com" target="_blank">
 	  <img src="./assets/img/train-de-vies.svg" alt="traindevies.com" style="max-width: 100%;">
-	</a><br/>
+	</a>
 	<a href="https://fr.linkedin.com/in/ikram-mbechezi" target="_blank">
 	  <img src="./assets/img/linkedin.svg" alt="linkedin" style="max-width: 100%;">
-	</a><br/>
+	</a>
 	<a href="https://mbechezi.website" target="_blank">
 	  <img src="./assets/img/portfolio.svg" alt="portfolio ikram mbechezi" style="max-width: 100%;">
 	</a><br /><br />
 	<p>
-		<span>📩 Pour me contacter :</span>
+		<span>📩 Pour me contacter :</span><br/>
 		<a href="www.linkedin.com/in/ikram-mbechezi" target="_blank">
 		 LinkedIn
-		</a>
+		</a><br/>
 		<a href="mailto:Mbechezi.Ikram@gmail.com" target="_blank">
 		 Mbechezi.Ikram@gmail.com
 		</a>
