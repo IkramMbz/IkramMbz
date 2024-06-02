@@ -91,6 +91,7 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 	<img align="left" width="40px" height="40px" alt="Jest" title="Jest" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
 	<img align="left" width="40px" height="40px" alt="GitLab" title="GitLab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" />
 	<img align="left" width="40px" height="40px" alt="Grafana" title="Grafana" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="GraphQL" title="GraphQL" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" />
 	<img align="left" width="40px" height="40px" alt="Google Tools" title="Google Tools" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 	<img align="left" width="40px" height="40px" alt="MongoDB" title="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" />
@@ -119,7 +120,9 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 	<img align="left" width="40px" height="40px" alt="Unity" title="Unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 	<img align="left" width="40px" height="40px" alt="Vercel" title="Vercel" src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Wordpress" title="Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" />
 </div>
+<br />
 <br />
 <br />
 <br />
