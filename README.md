@@ -5,9 +5,9 @@
 Bien plus que développeur, je réunis divers domaines de l'IT afin de créer une synergie entre visuel et fonctionnel. Dévoué à ce secteur, je porte naturellement plusieurs casquettes, allant de chef de projet à créateur de contenu.
 
 <div align="left" style="margin-bottom: 50px;">
-	<a href="https://traindevies.com" target="_blank">
+	<!--<a href="https://traindevies.com" target="_blank">
 	  <img src="./assets/img/train-de-vies.svg" alt="traindevies.com" style="max-width: 100%;">
-	</a>
+	</a>-->
 	<a href="https://fr.linkedin.com/in/ikram-mbechezi" target="_blank">
 	  <img src="./assets/img/linkedin.svg" alt="linkedin" style="max-width: 100%;">
 	</a>
