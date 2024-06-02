@@ -86,6 +86,7 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 	<img align="left" width="40px" height="40px" alt="TypeScript" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />
 	<img align="left" width="40px" height="40px" alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 	<img align="left" width="40px" height="40px" alt="CSS3" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+	<img align="left" width="40px" height="40px" alt="Astro" title="Astro" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/astro/astro-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Cypress" title="Cypress" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Express.js" title="Express.js" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Docker" title="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" />
@@ -103,6 +104,7 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 	<img align="left" width="40px" height="40px" alt="Prima" title="Prisma" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Portainer" title="Portainer" src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" />
 	<img align="left" width="40px" height="40px" alt="PostgreSQL" title="PostgreSQL" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" />
+	<img align="left" width="40px" height="40px" alt="Postman" title="Postman" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Prometheus" title="Prometheus" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />
 	<img align="left" width="40px" height="40px" alt="SQLite" title="SQLite" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Supabase" title="Supabase" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" />
