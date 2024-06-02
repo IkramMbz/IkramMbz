@@ -112,6 +112,10 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 	<img align="left" width="40px" height="40px" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 	<img align="left" width="40px" height="40px" alt="IntelliJ" title="IntelliJ" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" />
 	<img align="left" width="40px" height="40px" alt="Moodle" title="Moodle" src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Netlify" title="Netlify" src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Notion" title="Notion" src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Tensorflow" title="Tensorflow" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
+	<img align="left" width="40px" height="40px" alt="Trello" title="Trello" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" />
 </div>
 <br />
 <br />
