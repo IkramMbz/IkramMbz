@@ -1,8 +1,10 @@
 <h1>👋 Hey, je suis Ikram Mbechezi</h1>
 
-**`Développeur Full Stack (Co-Fondateur Train De Vies).`**
+<!--**`Chef de projet IT & Créateur de Naka (solution open source).`**-->
+**`Chef de projet Informatique.`**
 
-Bien plus que développeur, je réunis divers domaines de l'IT afin de créer une synergie entre visuel et fonctionnel. Dévoué à ce secteur, je porte naturellement plusieurs casquettes, allant de chef de projet à créateur de contenu.
+Je conçois des solutions IT sur mesure de bout en bout, pour optimiser la productivité et soutenir la croissance.
+Ma mission : transformer les savoir-faire métier en produits digitaux monétisables !
 
 <div align="left" style="margin-bottom: 50px;">
 	<a href="https://traindevies.com" target="_blank">
@@ -19,6 +21,9 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 		<a href="https://www.linkedin.com/in/ikram-mbechezi" target="_blank">
 		 LinkedIn
 		</a><br/>
+		<a href="https://cal.com/ikram-mbechezi/15min" target="_blank">
+		 Prendre RDV
+		</a>
 		<a href="mailto:Mbechezi.Ikram@gmail.com" target="_blank">
 		 Mbechezi.Ikram@gmail.com
 		</a>
@@ -26,7 +31,6 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 </div>
 
 ---
-<br />
 
 <h2>Main Project</h2>
 <div align="center">
@@ -139,7 +143,7 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 </div><br />
 -->
 
-<div class="ikram">
+<!--<div class="ikram">
 	<br />
 	<br />
 	<br />
@@ -159,3 +163,4 @@ function greetings() {
 }
 ```
 </div>
+-->
