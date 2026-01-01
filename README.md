@@ -1,4 +1,4 @@
-<h1>👋 Hey, je suis Ikram Mbechezi</h1>
+<h1>Hey, je suis Ikram Mbechezi</h1>
 
 <!--**`Chef de projet IT & Créateur de Naka (solution open source).`**-->
 **`Chef de projet Informatique.`**
@@ -23,7 +23,7 @@ Ma mission : transformer les savoir-faire métier en produits digitaux monétisa
 		</a><br/>
 		<a href="https://cal.com/ikram-mbechezi/15min" target="_blank">
 		 Prendre RDV
-		</a>
+		</a><br/>
 		<a href="mailto:Mbechezi.Ikram@gmail.com" target="_blank">
 		 Mbechezi.Ikram@gmail.com
 		</a>
