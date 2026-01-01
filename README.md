@@ -7,9 +7,9 @@ Je conçois des solutions IT sur mesure de bout en bout, pour optimiser la produ
 Ma mission : transformer les savoir-faire métier en produits digitaux monétisables !
 
 <div align="left" style="margin-bottom: 50px;">
-	<a href="https://traindevies.com" target="_blank">
+	<!--<a href="https://traindevies.com" target="_blank">
 	  <img src="./assets/img/train-de-vies.svg" alt="traindevies.com" style="max-width: 100%;">
-	</a>
+	</a>-->
 	<a href="https://fr.linkedin.com/in/ikram-mbechezi" target="_blank">
 	  <img src="./assets/img/linkedin.svg" alt="linkedin" style="max-width: 100%;">
 	</a>
