@@ -28,7 +28,7 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 ---
 <br />
 
-<h2>👨‍🚀 Mes derniers projets</h2>
+<h2>Main Project</h2>
 <div align="center">
 	<table>
         <tr>
@@ -57,7 +57,7 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 <br />
 <br />
 
-<h2>🚀 Mes dépôts phares</h2>
+<!-- <h2>🚀 Mes dépôts phares</h2>
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=ADBot&theme=buefy)](https://github.com/IkramMbz/ADBot)
@@ -130,7 +130,7 @@ Bien plus que développeur, je réunis divers domaines de l'IT afin de créer un
 <br />
 <br />
 <br />
-
+-->
 <!--<div>
 <h3>📊 Stats #Nouveau Compte.</h3>
 
