@@ -1,7 +1,7 @@
 # Ikram Mbechezi
 
 <!--**`Chef de projet IT & Créateur de Naka (solution open source).`**-->
-**`Chef de projet Informatique.`**
+**`Chef de projet Informatique`**
 
 Je conçois des solutions IT de bout en bout pour accroître la productivité des équipes et soutenir la croissance opérationnelle.
 Ma mission : transformer les savoir-faire métier en valeur grâce au digital !
