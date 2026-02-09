@@ -1,65 +1,26 @@
-<h1>Hey, je suis Ikram Mbechezi</h1>
+#Ikram Mbechezi
 
 <!--**`Chef de projet IT & Créateur de Naka (solution open source).`**-->
 **`Chef de projet Informatique.`**
 
-Je conçois des solutions IT sur mesure de bout en bout, pour optimiser la productivité et soutenir la croissance.
-Ma mission : transformer les savoir-faire métier en produits digitaux monétisables !
+Je conçois des solutions IT de bout en bout pour accroître la productivité des équipes et soutenir la croissance opérationnelle.
+Ma mission : transformer les savoir-faire métier en valeur grâce au digital !
 
-<div align="left" style="margin-bottom: 50px;">
-	<!--<a href="https://traindevies.com" target="_blank">
-	  <img src="./assets/img/train-de-vies.svg" alt="traindevies.com" style="max-width: 100%;">
-	</a>-->
-	<a href="https://fr.linkedin.com/in/ikram-mbechezi" target="_blank">
-	  <img src="./assets/img/linkedin.svg" alt="linkedin" style="max-width: 100%;">
-	</a>
-	<a href="https://mbechezi.vercel.app" target="_blank">
-	  <img src="./assets/img/portfolio.svg" alt="portfolio ikram mbechezi" style="max-width: 100%;">
-	</a><br /><br />
-	<p>
-		<span>📩 Pour me contacter :</span><br/>
-		<a href="https://www.linkedin.com/in/ikram-mbechezi" target="_blank">
-		 LinkedIn
-		</a><br/>
-		<a href="https://cal.com/ikram-mbechezi/15min" target="_blank">
-		 Prendre RDV
-		</a><br/>
-		<a href="mailto:Mbechezi.Ikram@gmail.com" target="_blank">
-		 Mbechezi.Ikram@gmail.com
-		</a>
-	</p>
-</div>
+[![Nakas Suite](assets/img/nakas-suite.svg)](https://mbechezi.fr/#nakas-suite) [![LinkedIn](assets/img/mon-linkedin.svg)](https://www.linkedin.com/in/ikram-mbechezi/) [![Portfolio](assets/img/mon-portfolio.svg)](https://mbechezi.fr)
+
+Contacts :  
+- [LinkedIn](https://www.linkedin.com/in/ikram-mbechezi/)  
+- [Prendre RDV](https://cal.com/ikram-mbechezi/15min)  
+- [Email](mailto:contact@mbechezi.fr)  
+
+## La suite Nakas
+Nakas, c'est un écosystème digital : conçu pour créer, pensé pour performer.
+Ce sont des outils pour gérer vos applications web, de l’idée à l’interface.
+Ou encore piloter efficacement vos process et vos données.
 
 ---
 
-<h2>Main Project</h2>
-<div align="center">
-	<table>
-        <tr>
-	<!--<td width="50%">
-				<h3 align="center">Train De Vies</h3>
-				<div align="center">
-                    <a href="https://traindevies.com" target="_blank" rel="noreferrer">
-					<img src="./assets/img/Train-De-Vies.webp" alt="Train De Vies"/> </a>
-                    <p align="center">Application Web et Site E-commerce dédié aux créateurs digitaux.</p>
-				</div>
-            </td>-->
-            <td width="50%">
-                <h3 align="center">Mon Portfolio</h3>
-                <div align="center">
-                    <a href="https://mbechezi.vercel.app" target="_blank" rel="noreferrer">
-			<!--<img src="./assets/img/Portfolio.web" alt="Mon Portfolio"/>-->
-			<img src="https://i.pinimg.com/originals/ed/a5/73/eda5739966cb33768d8ad0d77d7307ce.gif" alt="Mon Portfolio"/>
-		    </a>
-                    <p align="center">Mon portfolio de Développeur.</p>
-                </div>
-            </td>
-        </tr>
-  </table>
-</div>
-<br />
-<br />
-<br />
+![](/assets/img/nakas-banner.png)
 
 <!-- <h2>🚀 Mes dépôts phares</h2>
 <div align="center">
