@@ -4,7 +4,7 @@
 **`Chef de projet Informatique`**
 
 Je conçois des solutions IT de bout en bout pour accroître la productivité des équipes et soutenir la croissance opérationnelle.
-Ma mission : transformer les savoir-faire métier en valeur grâce au digital !
+Ma mission : transformer les savoir-faire métiers en valeur grâce au digital !
 
 [![Nakas Suite](assets/img/nakas-suite.svg)](https://mbechezi.fr/#nakas-suite) [![LinkedIn](assets/img/mon-linkedin.svg)](https://www.linkedin.com/in/ikram-mbechezi/) [![Portfolio](assets/img/mon-portfolio.svg)](https://mbechezi.fr)
 
