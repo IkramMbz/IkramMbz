@@ -20,7 +20,7 @@ Ou encore piloter efficacement vos process et vos données.
 
 ---
 
-![](/assets/img/nakas-banner.png)
+[![Nakas Suite](assets/img/nakas-banner.png)](https://mbechezi.fr/#nakas-suite) 
 
 <!-- <h2>🚀 Mes dépôts phares</h2>
 <div align="center">
