@@ -3,10 +3,11 @@
 <!--**`Chef de projet IT & Créateur de Naka (solution open source).`**-->
 **`Chef de projet Informatique`**
 
-Je conçois des solutions IT de bout en bout pour accroître la productivité des équipes et soutenir la croissance opérationnelle.
-Ma mission : transformer les savoir-faire métiers en valeur grâce au digital !
+Depuis plus de 3 ans, je conçois et développe des solutions IT  de bout en bout.
+Du cadrage à la mise en production, j’aide les entreprises à automatiser leurs workflows clés, des tunnels de vente, à la gestion de gros volumes de données.
+Ma mission : transformer les savoir-faire métiers en produits à forte grâce au digital !
 
-[![Nakas Suite](assets/img/nakas-suite.svg)](https://mbechezi.fr/#nakas-suite) [![LinkedIn](assets/img/mon-linkedin.svg)](https://www.linkedin.com/in/ikram-mbechezi/) [![Portfolio](assets/img/mon-portfolio.svg)](https://mbechezi.fr)
+[![Nakas Suite](assets/img/glitch-kids.svg)](https://glitchkids.space/) [![LinkedIn](assets/img/mon-linkedin.svg)](https://www.linkedin.com/in/ikram-mbechezi/) [![Portfolio](assets/img/mon-portfolio.svg)](https://mbechezi.fr)
 
 Contacts :  
 - [LinkedIn](https://www.linkedin.com/in/ikram-mbechezi/)  
