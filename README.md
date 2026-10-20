@@ -12,7 +12,7 @@ Contacts :
 - [LinkedIn](https://www.linkedin.com/in/ikram-mbechezi/)  
 - [Prendre RDV](https://cal.com/ikram-mbechezi/15min)  
 - [Email](mailto:contact@mbechezi.fr)  
-
+<!--
 ## La suite Nakas
 Nakas, c'est un écosystème digital : conçu pour créer, pensé pour performer.
 Ce sont des outils pour gérer vos applications web, de l’idée à l’interface.
@@ -22,7 +22,7 @@ Ou encore piloter efficacement vos process et vos données.
 
 [![Nakas Suite](assets/img/nakas-banner.png)](https://mbechezi.fr/#nakas-suite) 
 
-<!-- <h2>🚀 Mes dépôts phares</h2>
+ <h2>🚀 Mes dépôts phares</h2>
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=ADBot&theme=buefy)](https://github.com/IkramMbz/ADBot)
