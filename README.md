@@ -7,7 +7,7 @@ Depuis plus de 3 ans, je conçois et développe des solutions IT  de bout en bou
 Du cadrage à la mise en production, j’aide les entreprises à automatiser leurs workflows clés, des tunnels de vente, à la gestion de gros volumes de données.
 Ma mission : transformer les savoir-faire métiers en produits à forte grâce au digital !
 
-[![Nakas Suite](assets/img/glitch-kids.svg)](https://glitchkids.space/) [![LinkedIn](assets/img/mon-linkedin.svg)](https://www.linkedin.com/in/ikram-mbechezi/) [![Portfolio](assets/img/mon-portfolio.svg)](https://mbechezi.fr)
+[![Glitch Kids](assets/img/glitch-kids.svg)](https://glitchkids.space/) [![LinkedIn](assets/img/mon-linkedin.svg)](https://www.linkedin.com/in/ikram-mbechezi/) [![Portfolio](assets/img/mon-portfolio.svg)](https://mbechezi.fr)
 
 Contacts :  
 - [LinkedIn](https://www.linkedin.com/in/ikram-mbechezi/)  
