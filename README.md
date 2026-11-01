@@ -1,128 +1,26 @@
-# Ikram Mbechezi
+<h1 align="center">Hey ! Moi c'est Ikram 👋</h1>
 
-<!--**`Chef de projet IT & Créateur de Naka (solution open source).`**-->
-**`Chef de projet Informatique`**
+<p align="center">
+  <b>Software Engineer · Full-Stack & IA</b><br/>
+  <sub>Paris et périphérie · Hybride / Remote · <i>Open to opportunities (EN/FR)</i></sub>
+</p>
 
-Depuis plus de 3 ans, je conçois et développe des solutions IT  de bout en bout.
-Du cadrage à la mise en production, j’aide les entreprises à automatiser leurs workflows clés, des tunnels de vente, à la gestion de gros volumes de données.
-Ma mission : transformer les savoir-faire métiers en produits à forte grâce au digital !
-
-[![Glitch Kids](assets/media/img/glitch-kids.svg)](https://glitchkids.space/) [![LinkedIn](assets/media/img/linkedin.svg)](https://www.linkedin.com/in/ikram-mbechezi/) [![Portfolio](assets/media/img/mon-portfolio.svg)](https://mbechezi.fr)
-
-Contacts :  
-- [LinkedIn](https://www.linkedin.com/in/ikram-mbechezi/)  
-- [Prendre RDV](https://cal.com/ikram-mbechezi/15min)  
-- [Email](mailto:contact@mbechezi.fr)  
-<!--
-## La suite Nakas
-Nakas, c'est un écosystème digital : conçu pour créer, pensé pour performer.
-Ce sont des outils pour gérer vos applications web, de l’idée à l’interface.
-Ou encore piloter efficacement vos process et vos données.
+<p align="center" style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
+  <a href="https://mbechezi.fr"><img src="https://img.shields.io/badge/Portfolio-mbechezi.fr-faff00?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ikram-mbechezi/"><img src="https://img.shields.io/badge/LinkedIn-Ikram_Mbechezi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://cal.com/ikram-mbechezi/15min"><img src="https://img.shields.io/badge/Réserver_15_min-cal.com-111827?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Prendre RDV"/></a>
+  <a href="mailto:contact@mbechezi.fr"><img src="https://img.shields.io/badge/Email-contact@mbechezi.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
+## Ce que je fais
 
-[![Nakas Suite](assets/media/img/nakas-banner.png)](https://mbechezi.fr/#nakas-suite) 
+Depuis plus de 3 ans, je conçois et développe des produits digitaux de bout en bout :
 
- <h2>🚀 Mes dépôts phares</h2>
-<div align="center">
+**Architecture et développement** d'applications web full-stack
+**Automatisation** de processus métiers et de pipelines de données
+**Conception** d'outils d'IA, de solutions SaaS et de systèmes interconnectés
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=ADBot&theme=buefy)](https://github.com/IkramMbz/ADBot)
+Du cadrage à la mise en production, j'aide les entreprises à automatiser leurs workflows clés, des tunnels de vente à la gestion de gros volumes de données.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=Mosaique-solitaire)](https://github.com/IkramMbz/Mosaique-solitaire)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ikrammbz&repo=PersonaDB&theme=chartreuse-dark)](https://github.com/IkramMbz/PersonaDB)
-</div>
-<br />
-<br />
-<br />
-
-<h2>🛠️ Langages et Outils.</h2>
-<div align="center">
-	<img align="left" width="40px" height="40px" alt="C" title="C" title="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-	<img align="left" width="40px" height="40px" alt="C++" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-	<img align="left" width="40px" height="40px" alt="C#" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-	<img align="left" width="40px" height="40px" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-	<img align="left" width="40px" height="40px" alt="Next.js" title="Next.js" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
-	<img align="left" width="40px" height="40px" alt="PHP" title="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Python" title="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-	<img align="left" width="40px" height="40px" alt="React.js" title="React.js" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Rust" title="Rust" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Svelte" title="Svelte" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" />
-	<img align="left" width="40px" height="40px" alt="TypeScript" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />
-	<img align="left" width="40px" height="40px" alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-	<img align="left" width="40px" height="40px" alt="CSS3" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-	<img align="left" width="40px" height="40px" alt="Astro" title="Astro" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/astro/astro-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Cypress" title="Cypress" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Express.js" title="Express.js" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Docker" title="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" />
-	<img align="left" width="40px" height="40px" alt="Firebase" title="Firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Jest" title="Jest" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
-	<img align="left" width="40px" height="40px" alt="GitLab" title="GitLab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" />
-	<img align="left" width="40px" height="40px" alt="Grafana" title="Grafana" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-plain.svg" />
-	<img align="left" width="40px" height="40px" alt="GraphQL" title="GraphQL" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" />
-	<img align="left" width="40px" height="40px" alt="Google Tools" title="Google Tools" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-	<img align="left" width="40px" height="40px" alt="MongoDB" title="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" />
-	<img align="left" width="40px" height="40px" alt="MySql" title="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-	<img align="left" width="40px" height="40px" alt="NGINX" title="NGINX" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Node.js" title="Node.js" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
-	<img align="left" width="40px" height="40px" alt="Prima" title="Prisma" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Portainer" title="Portainer" src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" />
-	<img align="left" width="40px" height="40px" alt="PostgreSQL" title="PostgreSQL" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" />
-	<img align="left" width="40px" height="40px" alt="Postman" title="Postman" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Prometheus" title="Prometheus" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />
-	<img align="left" width="40px" height="40px" alt="SQLite" title="SQLite" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Supabase" title="Supabase" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Tailwind CSS" title="Tailwind CSS" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Arduino" title="Arduino" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Adobe AfterFX" title="Adobe AfterFX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
-	<img align="left" width="40px" height="40px" alt="Adobe Photoshop" width="30px" title="Adobe Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-	<img align="left" width="40px" height="40px" alt="Adobe Illustrator" width="30px" title="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
-	<img align="left" width="40px" height="40px" alt="Blender" title="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-	<img align="left" width="40px" height="40px" alt="IntelliJ" title="IntelliJ" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Moodle" title="Moodle" src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Netlify" title="Netlify" src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Notion" title="Notion" src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Tensorflow" title="Tensorflow" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Trello" title="Trello" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Unity" title="Unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
-	<img align="left" width="40px" height="40px" alt="Vercel" title="Vercel" src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" />
-	<img align="left" width="40px" height="40px" alt="Wordpress" title="Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-	<img align="left" width="40px" height="40px" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" />
-</div>
-<br />
-<br />
-<br />
-<br />
--->
-<!--<div>
-<h3>📊 Stats #Nouveau Compte.</h3>
-
-![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikrammbz&show_icons=true&theme=algolia)
-
-</div><br />
--->
-
-<!--<div class="ikram">
-	<br />
-	<br />
-	<br />
-	<a href="https://mbechezi.website" style="border-radius: 100%; background-color: red; background-color: '#faff00';">
-	  <img width="90px" height="90px" src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/media/img/Ikram-3D.webp" />
-	</a>
-	<br />
-	<br />
-	<br />
-
-```javascript
-import * from 'my-skills'
-
-function greetings() {
-	let ikramMbechezi = '👋 Je mets au service de vos projets mes compétences de développeur invétéré mais par-dessus tout :';
-	return <Passion />
-}
-```
-</div>
--->
+> *I build digital products end to end: full-stack apps, data pipelines and AI tools that turn business expertise into real value.*
