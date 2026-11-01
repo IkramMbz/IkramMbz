@@ -7,7 +7,7 @@ Depuis plus de 3 ans, je conçois et développe des solutions IT  de bout en bou
 Du cadrage à la mise en production, j’aide les entreprises à automatiser leurs workflows clés, des tunnels de vente, à la gestion de gros volumes de données.
 Ma mission : transformer les savoir-faire métiers en produits à forte grâce au digital !
 
-[![Glitch Kids](assets/img/glitch-kids.svg)](https://glitchkids.space/) [![LinkedIn](assets/img/mon-linkedin.svg)](https://www.linkedin.com/in/ikram-mbechezi/) [![Portfolio](assets/img/mon-portfolio.svg)](https://mbechezi.fr)
+[![Glitch Kids](assets/media/img/glitch-kids.svg)](https://glitchkids.space/) [![LinkedIn](assets/media/img/linkedin.svg)](https://www.linkedin.com/in/ikram-mbechezi/) [![Portfolio](assets/media/img/mon-portfolio.svg)](https://mbechezi.fr)
 
 Contacts :  
 - [LinkedIn](https://www.linkedin.com/in/ikram-mbechezi/)  
@@ -21,7 +21,7 @@ Ou encore piloter efficacement vos process et vos données.
 
 ---
 
-[![Nakas Suite](assets/img/nakas-banner.png)](https://mbechezi.fr/#nakas-suite) 
+[![Nakas Suite](assets/media/img/nakas-banner.png)](https://mbechezi.fr/#nakas-suite) 
 
  <h2>🚀 Mes dépôts phares</h2>
 <div align="center">
@@ -110,7 +110,7 @@ Ou encore piloter efficacement vos process et vos données.
 	<br />
 	<br />
 	<a href="https://mbechezi.website" style="border-radius: 100%; background-color: red; background-color: '#faff00';">
-	  <img width="90px" height="90px" src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/Ikram-3D.webp" />
+	  <img width="90px" height="90px" src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/media/img/Ikram-3D.webp" />
 	</a>
 	<br />
 	<br />
