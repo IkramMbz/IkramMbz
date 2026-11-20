@@ -13,7 +13,7 @@
 </p>
 
 ## Hey! I'm Ikram.
-For over 3 years, I have been designing and building end-to-end digital products.<br/>
+For over 3 years, I have been designing and building end-to-end digital products.<br/><br/>
 **Architecting and developing** full-stack web applications<br/>
 **Automating** business workflows and data pipelines such as ingestion and payments.<br/>
 **Designing** AI tools, SaaS solutions, and interconnected systems
