@@ -1,3 +1,4 @@
+
 <h1 align="center">Ikram Mbechezi</h1>
 
 <p align="center">
@@ -13,6 +14,7 @@
 </p>
 
 ## Hey! I'm Ikram.
+
 For over 3 years, I have been designing and building end-to-end digital products.<br/><br/>
 **Architecting and developing** full-stack web applications<br/>
 **Automating** business workflows and data pipelines such as ingestion and payments.<br/>
@@ -34,7 +36,17 @@ For over 3 years, I have been designing and building end-to-end digital products
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white" alt="Astro">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery&logoColor=white" alt="TanStack Query">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" alt="Stripe">
+</div>
+
+<h3>AI & Automation</h3>
+<div style="display:flex; flex-wrap:wrap; gap:8px;">
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" alt="Cursor">
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-5A5A5A?logo=protocols.io&logoColor=white" alt="MCP">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" alt="n8n">
 </div>
 
 <h3>Data</h3>
@@ -42,6 +54,7 @@ For over 3 years, I have been designing and building end-to-end digital products
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" alt="Elasticsearch">
 </div>
 
 <h3>Ship & Run</h3>
@@ -53,7 +66,7 @@ For over 3 years, I have been designing and building end-to-end digital products
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu">
 </div>
 
-## Selected projects
+## Selected Projects
 
 <table>
   <tr>
@@ -69,7 +82,7 @@ For over 3 years, I have been designing and building end-to-end digital products
     <td align="left" valign="top" width="50%">
       <a href="https://mo.mbechezi.fr/"><img src="/assets/media/img/making-of-mescertifs.webp" width="100%" alt="making-of-mescertifs"/></a>
       <br/>
-      <a href="https://mo.mbechezi.fr/"><b>Making Of - Mescertifs</b></a>
+      <a href="https://mo.mbechezi.fr/"><b>Making Of - MesCertifs</b></a>
       <br/>
       <sub>How a certification search platform was built, as an interactive timeline. 56 technologies over 2–3 years.</sub>
       <br/>
