@@ -1,8 +1,7 @@
-
 <h1 align="center">Ikram Mbechezi</h1>
 
 <p align="center">
-  <b>Software Engineer, Full Stack TypeScript</b><br/>
+  <b>Software Engineer | Full Stack TypeScript</b><br/>
   Greater Paris Area · Hybrid / Remote · <i>Open to opportunities (EN/FR)</i>
 </p>
 
@@ -13,12 +12,21 @@
   <a href="mailto:contacts@mbechezi.fr"><img src="https://img.shields.io/badge/Email-contacts@mbechezi.fr-F4F4F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-## Hey! I'm Ikram.
+## Hey! I'm Ikram, a Software Engineer.
 
-For over 3 years, I have been designing and building end-to-end digital products.<br/><br/>
-**Architecting and developing** full-stack web applications<br/>
-**Automating** business workflows and data pipelines such as ingestion and payments.<br/>
-**Designing** AI tools, SaaS solutions, and interconnected systems
+For over 3 years, I've been delivering digital products end to end, from raw data to payment.
+
+**What I've already built:**
+
+→ A professional certification search engine, visited by thousands of people every month.<br/>
+→ A complete sales and payment funnel, automated with Stripe, from registration to payment collection.<br/>
+→ Autonomous pipelines (Python/Rust) that collect, clean, and normalize data daily.
+
+From initial scoping to deployment, I build reliable products that run on their own.
+
+Today, I'm taking this stack further with AI: search, assistance, and automation, helping teams save time.
+
+> 💡 **My mission:** turn business expertise or an idea into a digital product that gets delivered, becomes visible, and stands the test of time.
 
 ## My Everyday Tools
 
