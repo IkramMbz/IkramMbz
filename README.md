@@ -12,7 +12,7 @@
   <a href="mailto:contacts@mbechezi.fr"><img src="https://img.shields.io/badge/Email-contacts@mbechezi.fr-F4F4F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-## Hey! I'm Ikram, a Software Engineer.
+## Hey! I'm Ikram, Software Engineer.
 
 For over 3 years, I've been delivering digital products end to end, from raw data to payment.
 
@@ -26,7 +26,7 @@ From initial scoping to deployment, I build reliable products that run on their 
 
 Today, I'm taking this stack further with AI: search, assistance, and automation, helping teams save time.
 
-> 💡 **My mission:** turn business expertise or an idea into a digital product that gets delivered, becomes visible, and stands the test of time.
+> **My mission:** turn business expertise or ideas into a digital product that gets delivered, becomes visible, and stands the test of time.
 
 ## My Everyday Tools
 
